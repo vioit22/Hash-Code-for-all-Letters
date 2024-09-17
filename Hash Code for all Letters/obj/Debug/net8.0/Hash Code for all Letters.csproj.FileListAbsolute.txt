@@ -1,0 +1,14 @@
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Letters\Hash Code for all Letters\bin\Debug\net8.0\Hash Code for all Letters.exe
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Letters\Hash Code for all Letters\bin\Debug\net8.0\Hash Code for all Letters.deps.json
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Letters\Hash Code for all Letters\bin\Debug\net8.0\Hash Code for all Letters.runtimeconfig.json
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Letters\Hash Code for all Letters\bin\Debug\net8.0\Hash Code for all Letters.dll
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Letters\Hash Code for all Letters\bin\Debug\net8.0\Hash Code for all Letters.pdb
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Letters\Hash Code for all Letters\obj\Debug\net8.0\Hash Code for all Letters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Letters\Hash Code for all Letters\obj\Debug\net8.0\Hash Code for all Letters.AssemblyInfoInputs.cache
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Letters\Hash Code for all Letters\obj\Debug\net8.0\Hash Code for all Letters.AssemblyInfo.cs
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Letters\Hash Code for all Letters\obj\Debug\net8.0\Hash Code for all Letters.csproj.CoreCompileInputs.cache
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Letters\Hash Code for all Letters\obj\Debug\net8.0\Hash Code for all Letters.dll
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Letters\Hash Code for all Letters\obj\Debug\net8.0\refint\Hash Code for all Letters.dll
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Letters\Hash Code for all Letters\obj\Debug\net8.0\Hash Code for all Letters.pdb
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Letters\Hash Code for all Letters\obj\Debug\net8.0\Hash Code for all Letters.genruntimeconfig.cache
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for all Letters\Hash Code for all Letters\obj\Debug\net8.0\ref\Hash Code for all Letters.dll
